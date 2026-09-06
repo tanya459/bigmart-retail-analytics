@@ -166,7 +166,22 @@ BigMart-Retail-Analytics/
 
 ## Dashboard Preview
 
-![BigMart Retail Analytics Dashboard](Dashboard/dashboard.png)
+
+### 1. Executive Dashboard
+
+![Big Mart Executive Dashboard](Dashboard/BigMart_Retail_Analytics_Executive_Dashboard.jpg)
+
+### 2. Outlet Analysis Dashboard
+
+![Big Mart Outlet Analysis Dashboard](Dashboard/BigMart_Retail_Analytics_Outlet_Analysis_Dashboard.jpg)
+
+### 3. Product Analysis Dashboard
+
+![Big Mart Product Analysis Dashboard](Dashboard/BigMart_Retail_Analytics_Product_Analysis_Dashboard.jpg)
+
+### 4. Product Details
+
+![Big Mart Product Details](Dashboard/BigMart_Retail_Analytics_Product_Details.jpg)
 
 ## How to Use
 
