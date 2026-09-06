@@ -181,7 +181,7 @@ BigMart-Retail-Analytics/
 
 ### 4. Product Details
 
-![Big Mart Product Details](Dashboard/BigMart_Retail_Analytics_Product_Details.jpg)
+![Big Mart Product Details](Dashboard/BigMart_Retail_Analytics_Product_Detaills.jpg)
 
 ## How to Use
 
